@@ -11,5 +11,5 @@ Translates an x-www-url-encoded form to a go struct (usable with gorillatoolkit.
 
 #### TODO
 
--[ ] Type detection
--[ ] `-` separated keys
+- [ ] Type detection
+- [ ] `-` separated keys
