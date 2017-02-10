@@ -1,0 +1,6 @@
+package: github.com/gee-m/form-to-struct
+import:
+- package: github.com/gee-m/go-helpers
+  version: ^1.0.1
+  subpackages:
+  - gstrings
