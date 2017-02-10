@@ -8,3 +8,8 @@ Translates an x-www-url-encoded form to a go struct (usable with gorillatoolkit.
 (Have go's bin path in your `$PATH`)
 
 `form-to-struct --form "your_form=here&with=its-values"`
+
+#### TODO
+
+-[ ] Type detection
+-[ ] `-` separated keys
